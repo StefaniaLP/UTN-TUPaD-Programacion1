@@ -1,0 +1,5 @@
+Nombre,Precio,Cantidad
+Mochilas,145000.0,10
+Cartucheras,1900.0,15
+Cuaderno,1300.0,32
+Lapiz,400,56
